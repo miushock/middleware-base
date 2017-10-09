@@ -1,0 +1,12 @@
+{
+  "name": "middleware-base",
+  "version": "0.0.1-alpha",
+  "description": "base class for web component middlewares that operate between client and fetch interface",
+  "main": "middleware-base.html",
+  "repository": "https://github.com/miushock/middleware-base.git",
+  "author": "Jin Xiao <jinxiao@freelog.com>",
+  "license": "MIT",
+  "dependencies": {
+    "polymer-cli": "^1.5.6"
+  }
+}
